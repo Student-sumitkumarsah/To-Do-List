@@ -1,0 +1,1 @@
+A simple and interactive To-Do List application built using HTML, CSS, and JavaScript. This project allows users to add, delete, and mark tasks as completed, helping them manage their daily activities efficiently.
